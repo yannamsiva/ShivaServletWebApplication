@@ -1,0 +1,222 @@
+.main
+{
+width:1000px;
+height:auto;
+	background:#F0F0E1;
+	margin:0px auto;
+}
+.main .head
+{
+width:1000px;
+height:100px;
+	background:#FFFFFF;
+}
+.head .logo
+{
+width:100px;height:100px;float:left;
+}
+.head h2
+{
+float:left;margin-top:30px;background:#006CD9;
+padding:5px 15px;
+margin-left:15px;
+color:white;
+}
+.head .icon
+{
+width:40px;
+height:40px;
+margin-top:30px;
+margin-left:10px;
+float:right;
+}
+
+.main .slider
+{
+width:1000px;
+height:300px;
+	background:#00D9D9 url(bg1.jpg);
+	background-size=1000px 300px;
+}
+
+/*  menu creation  */
+.main .menu
+{
+width:1000px;
+height:40px;
+	background:#36D900;
+}
+
+.menu .nav
+{
+list-style:none;
+
+}
+.nav li
+{
+float:left;
+background:#006CD9;
+color:white;
+width:188px;
+height:40px;
+margin-left:3px;
+text-align:center;
+line-height:40px;
+}
+
+.nav li a
+{
+color:white;
+text-decoration:none;
+}
+
+.nav li:hover
+{
+background:orange;
+font-size:20px;
+}
+/*  side navigation  */
+
+.sidenav
+{
+list-style:none;
+
+}
+.sidenav li
+{
+background:#0086B3 url(img/button.png);
+height:40px;
+margin-top:3px;
+text-align:center;
+line-height:40px;
+background-size:147% 234px;
+background-position:-93px -2px;
+
+
+
+
+}
+
+.sidenav li a
+{
+color:white;
+text-decoration:none;
+}
+
+.sidenav li:hover
+{
+background:url(img/button.png);
+background-size:147% 234px;
+background-position:-93px -2px;
+
+
+font-size:20px;
+}
+
+
+.center .man
+{
+float:left;
+margin=top:30px;
+font-size:22px
+margin-top:10px;
+}
+
+
+
+.right marquee
+{
+height:400px;
+margin-left:25px;
+
+}
+.right marquee img
+{
+width:200px;
+height:180px;
+margin-bottom:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main .content
+{
+width:1000px;
+height:400px;
+	background:#00D9D9;
+		background-size=1000px 300px;
+}
+
+.content .left,.content .right
+{
+width:250px;
+height:400px;
+	background:#A3D900;
+	float:left;
+
+
+}
+.content .center
+{
+width:500px;
+height:400px;
+	background:#FFFFF2;
+	float:left;
+
+
+}
+
+
+.footer
+{
+width:1000px;
+height:40px;
+	background:red;
+
+}
